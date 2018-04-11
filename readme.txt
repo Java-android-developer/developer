@@ -4,4 +4,4 @@ Git is free software append GPL.
 Git Test.
 Git tracks changes.
 Git untracks changes.
-Hello branch.
+Creating a new branch is quick & simple.
